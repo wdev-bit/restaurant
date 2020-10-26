@@ -1,0 +1,91 @@
+[06-Oct-2020 22:44:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/order.php on line 185
+[06-Oct-2020 22:45:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/order.php on line 185
+[07-Oct-2020 18:17:15 Asia/Kolkata] PHP Warning:  move_uploaded_file(banner/5f7db8d3a3cf2ict-banner.png): failed to open stream: No such file or directory in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/banner.php on line 198
+[07-Oct-2020 18:17:15 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSTcFkn' to 'banner/5f7db8d3a3cf2ict-banner.png' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/banner.php on line 198
+[07-Oct-2020 18:21:10 Asia/Kolkata] PHP Warning:  move_uploaded_file(banner/5f7db9be28ce3ict-banner.png): failed to open stream: No such file or directory in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/banner.php on line 122
+[07-Oct-2020 18:21:10 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmR2Uh9' to 'banner/5f7db9be28ce3ict-banner.png' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/banner.php on line 122
+[07-Oct-2020 18:21:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/bannerlist.php on line 52
+[07-Oct-2020 18:21:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/bannerlist.php on line 52
+[07-Oct-2020 18:21:40 Asia/Kolkata] PHP Warning:  move_uploaded_file(banner/5f7db9dc1217cfood.jpg): failed to open stream: No such file or directory in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/banner.php on line 198
+[07-Oct-2020 18:21:40 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptxFO25' to 'banner/5f7db9dc1217cfood.jpg' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/banner.php on line 198
+[07-Oct-2020 18:21:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/bannerlist.php on line 52
+[07-Oct-2020 18:21:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/bannerlist.php on line 52
+[07-Oct-2020 18:28:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/bannerlist.php on line 52
+[07-Oct-2020 18:28:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/bannerlist.php on line 52
+[07-Oct-2020 18:28:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/bannerlist.php on line 52
+[07-Oct-2020 18:57:04 Asia/Kolkata] PHP Warning:  move_uploaded_file(banner/5f7dc228600ddlaptop-2838921_1920.jpg): failed to open stream: No such file or directory in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/banner.php on line 198
+[07-Oct-2020 18:57:04 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOUOLlt' to 'banner/5f7dc228600ddlaptop-2838921_1920.jpg' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/banner.php on line 198
+[10-Oct-2020 15:27:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/order.php on line 185
+[10-Oct-2020 15:27:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/order.php on line 185
+[10-Oct-2020 15:27:37 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd' in 'where clause' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:62
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php(62): mysqli->query('select * from p...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 62
+[10-Oct-2020 15:28:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/order.php on line 185
+[10-Oct-2020 15:29:04 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd' in 'where clause' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:62
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php(62): mysqli->query('select * from p...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 62
+[10-Oct-2020 15:30:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/bannerlist.php on line 52
+[10-Oct-2020 15:30:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/bannerlist.php on line 52
+[10-Oct-2020 15:31:09 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd' in 'where clause' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:62
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php(62): mysqli->query('select * from p...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 62
+[10-Oct-2020 15:38:03 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd' in 'where clause' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:62
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php(62): mysqli->query('select * from p...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 62
+[10-Oct-2020 15:59:06 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd' in 'where clause' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:62
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php(62): mysqli->query('select * from p...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 62
+[10-Oct-2020 16:19:30 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd' in 'where clause' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:61
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php(61): mysqli->query('select * from p...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 61
+[10-Oct-2020 16:19:54 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd' in 'where clause' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:61
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php(61): mysqli->query('select * from p...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 61
+[10-Oct-2020 16:22:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd' in 'where clause' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:61
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php(61): mysqli->query('select * from p...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 61
+[10-Oct-2020 16:24:21 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd' in 'where clause' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:62
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php(62): mysqli->query('select * from p...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 62
+[10-Oct-2020 16:24:46 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd' in 'where clause' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:62
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php(62): mysqli->query('select * from p...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 62
+[10-Oct-2020 16:25:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:62
+Stack trace:
+#0 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 62
+[10-Oct-2020 16:26:43 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd' in 'where clause' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:62
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php(62): mysqli->query('select * from p...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 62
+[10-Oct-2020 16:29:47 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd' in 'where clause' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:62
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php(62): mysqli->query('select * from p...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 62
+[10-Oct-2020 16:32:11 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd' in 'where clause' in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php:62
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php(62): mysqli->query('select * from p...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/pdata.php on line 62

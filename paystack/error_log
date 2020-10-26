@@ -1,0 +1,126 @@
+[06-Oct-2020 17:45:35 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 193
+[06-Oct-2020 17:45:35 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 193
+[06-Oct-2020 17:45:35 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 201
+[06-Oct-2020 17:45:35 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 201
+[06-Oct-2020 17:45:35 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 209
+[06-Oct-2020 17:45:35 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 217
+[06-Oct-2020 17:58:09 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 193
+[06-Oct-2020 17:58:09 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 193
+[06-Oct-2020 17:58:09 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 201
+[06-Oct-2020 17:58:09 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 201
+[06-Oct-2020 17:58:09 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 209
+[06-Oct-2020 17:58:09 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 217
+[06-Oct-2020 18:00:12 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 193
+[06-Oct-2020 18:00:12 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 193
+[06-Oct-2020 18:00:12 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 201
+[06-Oct-2020 18:00:12 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 201
+[06-Oct-2020 18:00:12 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 209
+[06-Oct-2020 18:00:12 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 217
+[06-Oct-2020 18:01:44 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 193
+[06-Oct-2020 18:01:44 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 193
+[06-Oct-2020 18:01:44 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 201
+[06-Oct-2020 18:01:44 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 201
+[06-Oct-2020 18:01:44 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 209
+[06-Oct-2020 18:01:44 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 217
+[07-Oct-2020 13:13:26 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[07-Oct-2020 13:13:26 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[07-Oct-2020 13:13:26 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[07-Oct-2020 13:13:26 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[07-Oct-2020 13:13:26 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[07-Oct-2020 13:13:26 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
+[07-Oct-2020 21:19:57 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[07-Oct-2020 21:19:57 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[07-Oct-2020 21:19:57 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[07-Oct-2020 21:19:57 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[07-Oct-2020 21:19:57 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[07-Oct-2020 21:19:57 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
+[07-Oct-2020 21:25:16 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[07-Oct-2020 21:25:16 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[07-Oct-2020 21:25:16 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[07-Oct-2020 21:25:16 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[07-Oct-2020 21:25:16 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[07-Oct-2020 21:25:16 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
+[07-Oct-2020 21:26:14 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[07-Oct-2020 21:26:14 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[07-Oct-2020 21:26:14 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[07-Oct-2020 21:26:14 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[07-Oct-2020 21:26:14 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[07-Oct-2020 21:26:14 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
+[07-Oct-2020 21:33:19 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[07-Oct-2020 21:33:19 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[07-Oct-2020 21:33:19 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[07-Oct-2020 21:33:19 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[07-Oct-2020 21:33:19 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[07-Oct-2020 21:33:19 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
+[08-Oct-2020 21:43:10 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[08-Oct-2020 21:43:10 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[08-Oct-2020 21:43:10 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[08-Oct-2020 21:43:10 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[08-Oct-2020 21:43:10 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[08-Oct-2020 21:43:10 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
+[08-Oct-2020 21:45:07 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[08-Oct-2020 21:45:07 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[08-Oct-2020 21:45:07 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[08-Oct-2020 21:45:07 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[08-Oct-2020 21:45:07 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[08-Oct-2020 21:45:07 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
+[08-Oct-2020 21:45:29 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[08-Oct-2020 21:45:29 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[08-Oct-2020 21:45:29 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[08-Oct-2020 21:45:29 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[08-Oct-2020 21:45:29 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[08-Oct-2020 21:45:29 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
+[08-Oct-2020 21:46:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 22
+[08-Oct-2020 21:46:46 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[08-Oct-2020 21:46:46 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[08-Oct-2020 21:46:46 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[08-Oct-2020 21:46:46 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[08-Oct-2020 21:46:46 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[08-Oct-2020 21:46:46 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
+[08-Oct-2020 21:47:16 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[08-Oct-2020 21:47:16 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[08-Oct-2020 21:47:16 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[08-Oct-2020 21:47:16 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[08-Oct-2020 21:47:16 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[08-Oct-2020 21:47:16 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
+[08-Oct-2020 21:50:18 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 106
+[08-Oct-2020 21:50:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`angorabynayabcha_pharmacy`.`transactions`, CONSTRAINT `transactions_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `user` (`id`)) in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php:120
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php(120): mysqli->query('insert into tra...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 120
+[08-Oct-2020 21:51:39 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 106
+[08-Oct-2020 21:51:39 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`angorabynayabcha_pharmacy`.`transactions`, CONSTRAINT `transactions_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `user` (`id`)) in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php:120
+Stack trace:
+#0 /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php(120): mysqli->query('insert into tra...')
+#1 {main}
+  thrown in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 120
+[08-Oct-2020 22:07:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 22
+[08-Oct-2020 22:07:05 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[08-Oct-2020 22:07:05 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[08-Oct-2020 22:07:05 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[08-Oct-2020 22:07:05 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[08-Oct-2020 22:07:05 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[08-Oct-2020 22:07:05 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
+[10-Oct-2020 15:32:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 22
+[10-Oct-2020 15:32:26 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[10-Oct-2020 15:32:26 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[10-Oct-2020 15:32:26 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[10-Oct-2020 15:32:26 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[10-Oct-2020 15:32:26 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[10-Oct-2020 15:32:26 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
+[10-Oct-2020 15:54:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 22
+[10-Oct-2020 15:54:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 22
+[10-Oct-2020 15:54:13 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[10-Oct-2020 15:54:13 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[10-Oct-2020 15:54:13 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[10-Oct-2020 15:54:13 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[10-Oct-2020 15:54:13 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[10-Oct-2020 15:54:13 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
+[11-Oct-2020 15:20:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 22
+[11-Oct-2020 15:20:46 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[11-Oct-2020 15:20:46 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 202
+[11-Oct-2020 15:20:46 Asia/Kolkata] PHP Notice:  Undefined index: fees in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[11-Oct-2020 15:20:46 Asia/Kolkata] PHP Notice:  Undefined index: currency in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 214
+[11-Oct-2020 15:20:46 Asia/Kolkata] PHP Notice:  Undefined index: trx_id in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 226
+[11-Oct-2020 15:20:46 Asia/Kolkata] PHP Notice:  Undefined index: status in /home2/angorabynayabcha/pharmacy.angorabynayabchaudary.com/paystack/transaction.php on line 238
